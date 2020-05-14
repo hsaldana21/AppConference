@@ -6,8 +6,10 @@
     "bugs": "https://github.com/Hector/conference-app/issues",
     "dependencies": {
         "compression": "^1.7.4",
+        "dotenv": "^8.2.0",
         "express": "^4.17.1",
-        "helmet": "^3.22.0"
+        "helmet": "^3.22.0",
+        "jsforce": "^1.9.3"
     },
     "devDependencies": {
         "eslint": "^6.8.0",
